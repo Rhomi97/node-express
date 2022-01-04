@@ -1,0 +1,19 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node Express Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rhomi97/node-express.git"
+  },
+  "author": "Romi Forcadell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
