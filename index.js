@@ -4,6 +4,8 @@ const morgan = require('morgan');
 const bodyParser = require('body-parser');
 
 const dishRouter = require('./routes/dishRouter');
+const dishRouter = require('./routes/leaderRouter');
+const dishRouter = require('./routes/promoRouter');
 const hostname = 'localhost';
 const port = 3000;
 
